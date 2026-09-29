@@ -10,3 +10,7 @@ gobench
 # Test artifacts
 *.out
 *.test
+
+# Development and planning notes
+IMPROVEMENT.md
+improvement.md
