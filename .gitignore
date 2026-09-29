@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+gobench
+
+# Test artifacts
+*.out
+*.test
